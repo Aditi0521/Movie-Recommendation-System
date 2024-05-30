@@ -5,8 +5,6 @@ This Movie Recommendation System is designed to recommend movies to users based 
 Features
 User Authentication: Users can register, log in, and log out.
 Movie Recommendations: Based on user preferences and viewing history.
-Watchlist: Users can add movies to their watchlist.
-Favorites: Users can mark movies as favorites for easy future reference.
 History: Track users' viewing history.
 
 Setup Instructions
@@ -44,3 +42,10 @@ python -c "import database; database.create_db()"
 To run the application, execute the following command:
 
 streamlit run app.py
+
+
+6. Using the Application
+Register: Create a new account.
+Login: Log in to your account.
+Generate movie recommendations
+View History: See your viewing history and get movie recommendations.
