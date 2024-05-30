@@ -15,7 +15,6 @@ Setup Instructions
 1. Clone the Repository
 First, clone the repository to your local machine using the following command:
 
-Copy code
 git clone https://github.com/Aditi0521/Movie-Recommendation-System.git
 
 2. Install Dependencies
