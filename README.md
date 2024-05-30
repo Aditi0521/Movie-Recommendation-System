@@ -52,3 +52,6 @@ Register: Create a new account.
 Login: Log in to your account.
 Generate movie recommendations
 View History: See your viewing history and get movie recommendations.
+
+
+https://github.com/Aditi0521/Movie-Recommendation-System/assets/116380139/fd3a886e-3f27-4fe2-801f-f952446558c6
